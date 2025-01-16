@@ -63,5 +63,3 @@ git push origin feature/your-feature-name
 5.	Open a pull request.
 ## License
 This project is licensed under the Apache 2.0 License.
-
-
